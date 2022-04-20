@@ -1,7 +1,7 @@
 # mao-yan-film-admin
 
 ## 介绍
-仿猫眼电影-admin界面
+仿猫眼电影-user界面：https://github.com/WENQI521/mao-yan-admin
 
 ## 软件架构
 软件架构说明

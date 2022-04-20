@@ -2,7 +2,7 @@
 
 ## 介绍
 仿猫眼电影-管理员界面
-用户界面：https://github.com/WENQI521/mao-yan-admin
+用户界面：https://github.com/WENQI521/maoyan-film-user
 
 ## 软件架构
 软件架构说明
